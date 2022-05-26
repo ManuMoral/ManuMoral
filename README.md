@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Indie Games** for [lavacandygames.com](https://lavacandygames.com)
 
-- 🌱 I’m currently learning **C#, Unity3D, VR , AR**
+- 🌱 I’m currently learning **Swift, C#, Unity3D, VR , AR**
 
 - 👨‍💻 All of my projects are available at [MyWebPortfolio](https://lavacandygames.com/manuel-moral)
 
