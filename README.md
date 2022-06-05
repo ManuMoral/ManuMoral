@@ -5,8 +5,6 @@
 
 - 💻 I’m currently learning **Swift, C#, Unity3D, VR , AR**
 
-- 👨🏻‍💻 All of my projects are available at [MyWebPortfolio](https://lavacandygames.com/manuel-moral)
-
 - 🎮 Play with my latest creations on [MyItch.io](https://kreative-knowmad.itch.io/)
 
 - 📝 I regularly write articles on [LavaCandyGames News](https://lavacandygames.com/news)
