@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manu Moral aka Kreative Knowmad</h1>
 <h3 align="center">A passionate game developer from Spain</h3>
 
-- 🔭 I’m currently working on **Indie Games** for [lavacandygames.com](https://lavacandygames.com)
+- 👾 I’m currently working on **Indie Games** for [lavacandygames.com](https://lavacandygames.com)
 
-- 🌱 I’m currently learning **Swift, C#, Unity3D, VR , AR**
+- 💻 I’m currently learning **Swift, C#, Unity3D, VR , AR**
 
-- 👨‍💻 All of my projects are available at [MyWebPortfolio](https://lavacandygames.com/manuel-moral)
+- 👨🏻‍💻 All of my projects are available at [MyWebPortfolio](https://lavacandygames.com/manuel-moral)
+
+- 🎮 Play with my latest creations on [MyItch.io](https://kreative-knowmad.itch.io/)
 
 - 📝 I regularly write articles on [LavaCandyGames News](https://lavacandygames.com/news)
 
